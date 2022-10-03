@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoChat</string>
+    <string name="enter_call_id">Enter Call ID</string>
+</resources>
